@@ -1,6 +1,6 @@
 {
   "name": "easy-store",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "Easy file system JSON storage",
   "main": "lib/index.js",
   "author": "Gabe Scholz",
@@ -18,10 +18,17 @@
     "shortid": "^2.2.8"
   },
   "babel": {
-    "presets": [["env", {
-      "targets": {
-        "node": ["0.12"]
-      }
-    }]]
+    "presets": [
+      [
+        "env",
+        {
+          "targets": {
+            "node": [
+              "0.12"
+            ]
+          }
+        }
+      ]
+    ]
   }
 }
