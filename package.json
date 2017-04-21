@@ -1,6 +1,6 @@
 {
   "name": "easy-store",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Easy file system JSON storage",
   "main": "lib/index.js",
   "author": "Gabe Scholz",
