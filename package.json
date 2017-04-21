@@ -9,6 +9,10 @@
     "test": "jest",
     "package": "babel src/index.js -o lib/index.js"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com:garbles/easy-store.git"
+  },
   "dependencies": {
     "babel-cli": "^6.24.1",
     "babel-preset-env": "^1.4.0",
