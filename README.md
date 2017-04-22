@@ -1,4 +1,4 @@
-A simple storage mechanism for doing demos and stuff where you require some persistence. Saves JSON files to disk your OS's temp directory. Only works in Node.
+A simple storage mechanism for doing demos and stuff where you require some persistence. Saves JSON files to disk in your OS's temp directory. Only works in Node.
 
 ### Install
 
